@@ -101,7 +101,7 @@ section.about .empty {
 .empty img {
     width: 80%; 
     height: auto;
-    max-width: 450px; 
+    max-width: 600px; 
     
     border-radius: 30px; 
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
